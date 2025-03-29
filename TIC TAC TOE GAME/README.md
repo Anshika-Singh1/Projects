@@ -64,7 +64,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Anshika Singh] | [Live Demo](#) *(add your demo link after deployment)*
+Made with ❤️ by [Anshika Singh] 
 ```
 
 ### Key Highlights:
